@@ -10,6 +10,5 @@
 vjgiri/vjgiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://www.linkedin.com/in/girivj"> <img src="https://user-images.githubusercontent.com/85032466/215314032-ce50931b-80f7-43cc-a02c-b45fd2473fc2.png](https://cdn-icons-png.flaticon.com/256/61/61109.png)https://cdn-icons-png.flaticon.com/256/61/61109.png"></a>
 
 
