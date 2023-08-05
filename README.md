@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vjgiri called as GIRI SHANAR V J
 - 👀 I’m interested in Ethical Hacking, Cyber Security,... 
-- 🌱 I’m currently learning B.E (EEE)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying B.E EEE
 - 📫 You can reach me on @hack_er._01 in instagram
 - My Coding Profile <a href="http://www.skillrack.com/profile/376570/vjgiri">Skill Rack Intern</a>
 - Learning Electronics
